@@ -1,0 +1,41 @@
+{
+  "data_1": [
+    { "birthday": "March 18, 2002" },
+    {
+      "website": "None"
+    },
+    { "phone": "+63 906-145-6801" },
+    { "address": "Pinayagan Sur, Tubigon, Bohol, Philippines" }
+  ],
+  "data_2": [
+    { "age": 21 },
+    { "degree": "Bachelor of Science in Information Technology" },
+    { "email": "<a href='mailto:someone@example.com'>clentoy@yahoo.com</a>" },
+    { "freelance": "Available" }
+  ],
+  "data_3": [
+    "Pinayagan Sur, Tubigon, Bohol, Philippines",
+    "+63 906-145-6801",
+    "<a href='mailto:someone@example.com'>clentoy@yahoo.com</a>"
+  ],
+  "data_4": [
+    {
+      "title": "Bachelor of Science in Information Technology",
+      "year": "2021 - Present",
+      "school": "Mater Dei College",
+      "address": "Cabulijan, Tubigon, Bohol"
+    },
+    {
+      "title": "SECONDARY",
+      "year": "2021 - 2013",
+      "school": "Holy Family of Nazareth School",
+      "address": "Ubojan, Bohol"
+    },
+    {
+      "title": "ELEMENTARY",
+      "year": "2009 - 2013",
+      "school": "Pinayagan Sur Elementary School",
+      "address": "Pinayagan Sur, Tubigon, Bohol"
+    }
+  ]
+}

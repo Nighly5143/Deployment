@@ -1,0 +1,18 @@
+{
+  "companies": [
+    {
+      "title": "Judging System",
+      "duration": "March 2023",
+      "tasks": [
+        "JudgingSystem is a Java project designed to streamline the process of scoring contestants in a competition. The system allows judges to input scores for each contestant across various criteria, automatically calculates the total score for each contestant, and provides a final ranking at the end of the competition. This project ensures accuracy and efficiency, making it easier to manage and evaluate multiple contestants fairly."
+      ]
+    },
+    {
+      "title": "Rental Car ",
+      "duration": "March 2023",
+      "tasks": [
+        "RentalCar is a simple Laravel-based project developed to manage and streamline the process of renting vehicles. The system allows users to browse available cars, make reservations, and manage their bookings through a user-friendly interface."
+      ]
+    }
+  ]
+}
